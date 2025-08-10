@@ -2,8 +2,7 @@
 
 My name is Man, and I am a Rutgers University - New Brunswick trained computer scientist interested in all things Python & Machine Learning! I have a Bachelors of Science degree in Computer Science with an adjacent focus in Mathematics at my latest university!
 
-Here are some fun facts about me:
-
+## Here are some fun facts about me:
 - In the past I have built a daily journal web application that aids users in pursuring their goal! Using Render to host the website and Groq API, I created an AI-powered companion that helps break down the user's goal into a planned regiment. Check out [DaysCounter](https://days-counting-web-app-w-render.onrender.com/) and let me know what you think!
 
 - I am currently working on an educational platform that is for beginners and curious users wanting to learn trading in the financial stock market. This platform is being designed to simulate real-world market data with an AI agent that helps make financial decisions! Check it out [here](https://github.com/manvocao0271/stock-market-educational-platform), working website will be deployed soon!
