@@ -8,7 +8,7 @@ Here are some fun facts about me:
 
 - I am currently working on an educational platform that is for beginners and curious users wanting to learn trading in the financial stock market. This platform is being designed to simulate real-world market data with an AI agent that helps make financial decisions! Check it out [here](https://github.com/manvocao0271/stock-market-educational-platform), working website will be deployed soon!
 
-- I am looking to collaborate with critical-thinking teams tackling challenging software problems with a learning mindset. Contact me at manvocao0271@gmail.com
+- I am looking to collaborate with critical-thinking teams tackling challenging software problems with a learning mindset. Email me further inquiries at manvocao0271@gmail.com.
 
 <!--
 **manvocao0271/manvocao0271** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
