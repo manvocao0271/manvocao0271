@@ -1,11 +1,11 @@
 ## Hello and welcome to my GitHub!👋
 
-My name is Man, and I am a Rutgers University - New Brunswick trained computer scientist interested in all things Python & Machine Learning! I have a Bachelors of Science degree in Computer Science with an adjacent focus in Mathematics at my latest university!
+My name is Man (the start of a very delicious fruit). I am a recent graduate from Rutgers University - New Brunswick with a B.S. in Computer Science who is interested in all things Artificial Intellegience & Machine Learning. Nice to meet you!
 
 ## Here are some fun facts about me:
-- In the past I have built a daily journal web application that aids users in pursuring their goal! Using Render to host the website and Groq API, I created an AI-powered companion that helps break down the user's goal into a planned regiment. Check out [DaysCounter](https://days-counting-web-app-w-render.onrender.com/) and let me know what you think!
-- I am currently working on an educational platform that is for beginners (including myself) wanting to learn the financial stock market. This platform is being designed to simulate real-world market data with an AI agent that helps make financial decisions! Check it out [here](https://github.com/manvocao0271/stock-market-educational-platform), working website will be deployed soon!
-- I am looking to collaborate with critical-thinking teams tackling challenging software problems with a learning mindset.
+- This year I have built a multiplayer web application that helps close friends socialize! Using Cloudflare Pages to host the website and AWS EC2 to host the backend reversed proxied by nginx, I created a stable and interactive platform that helps friends engage more! Check it out [PLAYVIBELY.COM](https://playvibely.com/) and let me know what you think!
+- Recently, I am currently working on a NASA MCP server that is for enthusiasts (including myself) wanting to learn more about agent tool calling. This is being designed to allow agents to retrieve real world data with NASA's open APIs! Check it out [here](https://github.com/manvocao0271/nasa-mcp)
+- I am looking to collaborate with critical-thinking teams tackling challenging software problems with a learning mindset. In addition to open-source contributions, please reach out!
   - Send ideas to manvocao0271@gmail.com.
 
 <!--
