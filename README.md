@@ -3,8 +3,9 @@
 My name is Man (the start of a very delicious fruit). I am a recent graduate from Rutgers University - New Brunswick with a B.S. in Computer Science who is interested in all things Artificial Intellegience & Machine Learning. Nice to meet you!
 
 ## Here are some fun facts about me:
-- This year I have built a multiplayer web application that helps close friends socialize! Using Cloudflare Pages to host the website and AWS EC2 to host the backend reversed proxied by nginx, I created a stable and interactive platform that helps friends engage more! Check it out [PLAYVIBELY.COM](https://playvibely.com/) and let me know what you think!
-- Recently, I am currently working on a NASA MCP server that is for enthusiasts (including myself) wanting to learn more about agent tool calling. This is being designed to allow agents to retrieve real world data with NASA's open APIs! Check it out [here](https://github.com/manvocao0271/nasa-mcp)
+- Right now I am working on a Lethal Company plugin has a mod developer using the .NET standard. This project gives me hands-on experience with C#, BepInEx, Unity APIs, Harmony patching, and multiplayer networking through Netcode. I am particularly focused on designing a reliable client-host synchronization and networked state management for automated inventory operations. [MOD WEBSITE](https://thunderstore.io/c/lethal-company/p/bobabulkerENTERPRISE/DropAndGrabOverhaul/)
+- This year I built a multiplayer web application that helps close friends socialize! Using Cloudflare Pages to host the website and AWS EC2 to host the backend reversed proxied by nginx, I created a stable and interactive platform that helps friends engage more! Check it out [PLAYVIBELY.COM](https://playvibely.com/) and let me know what you think!
+- Recently, I am finished working on a NASA MCP server that is for enthusiasts (including myself) wanting to learn more about agent tool calling. This is being designed to allow agents to retrieve real world data with NASA's open APIs! [DEVPOST](https://devpost.com/software/ai-universe-video-generator)
 - I am looking to collaborate with critical-thinking teams tackling challenging software problems with a learning mindset. In addition to open-source contributions, please reach out!
   - Send ideas to manvocao0271@gmail.com.
 
